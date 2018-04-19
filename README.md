@@ -1,4 +1,4 @@
-#LibPSVR
+# LibPSVR
 C library for Morpheus (Playstation VR). Tested with Ubuntu 15.10 + libusb-1.0.20.
 
 ## Build
